@@ -85,7 +85,6 @@ Results show strong agreement with analytical solutions, validating the accuracy
 ## 📝 Supervisor
 
 **Name:** Dr. Pradeep Ahuja  
-**Signature:** _(To be added at submission)_
 
 ---
 
