@@ -1,13 +1,7 @@
 # Computational Programming in Chemical Reaction Engineering
 
-## Project Title
 **Advanced C++ Programs for Solving Chemical Reaction Equations using Runge-Kutta and Newton-Raphson Methods**
 
-## Course
-Computational Programming in Chemical Reaction Engineering
-
-## Instructor
-**Dr. Pradeep Ahuja**
 
 ---
 
